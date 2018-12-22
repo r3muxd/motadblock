@@ -1,0 +1,38 @@
+﻿
+#motadblock - do not add anything until after #end of motadblock
+0.0.0.0 adback.pinion.gg
+0.0.0.0 ads.intergi.com
+0.0.0.0 bin.pinion.gg
+0.0.0.0 blog.pinion.gg
+0.0.0.0 cdn.pinion.gg
+0.0.0.0 cp.pinion.gg
+0.0.0.0 crm.pinion.gg
+0.0.0.0 delivery.pinion.gg
+0.0.0.0 docs.pinion.gg
+0.0.0.0 kermit.pinion.gg
+0.0.0.0 legacy.pinion.gg
+0.0.0.0 log.pinion.gg
+0.0.0.0 mail.pinion.gg
+0.0.0.0 motd.pinion.gg
+0.0.0.0 motdgd.com
+0.0.0.0 ns1.pinion.gg
+0.0.0.0 ns2.pinion.gg
+0.0.0.0 ns3.pinion.gg
+0.0.0.0 ns4.pinion.gg
+0.0.0.0 ns5.pinion.gg
+0.0.0.0 ns6.pinion.gg
+0.0.0.0 oscar.pinion.gg
+0.0.0.0 pinion.gg
+0.0.0.0 pinionprizes.gg
+0.0.0.0 pog.gg
+0.0.0.0 pog.pinion.gg
+0.0.0.0 sourcerev.com
+0.0.0.0 stage.pinion.gg
+0.0.0.0 templ4d2.pinion.gg
+0.0.0.0 tix.pinion.gg
+0.0.0.0 video.pinion.gg
+0.0.0.0 voip.pinion.gg
+0.0.0.0 wiki.pinion.gg
+0.0.0.0 www.pinion.gg
+0.0.0.0 www.ptp22.com
+#end of motadblock - add things under here
